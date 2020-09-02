@@ -1,2 +1,2 @@
 # C-Programming
-##Learn C language by myself
+Learn C language by myself
