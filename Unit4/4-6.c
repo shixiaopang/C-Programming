@@ -12,5 +12,6 @@ int main(){
     num_4=9-num_3;
     printf("Check digit:%d",num_4);
     getchar();
+    
     return 0;
 }
